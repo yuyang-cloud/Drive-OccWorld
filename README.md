@@ -27,7 +27,7 @@ End-to-end autonomous driving systems increasingly rely on vision-centric world 
 
 ## 🎥 Demo of 4D Occupancy and Flow Forecasting
 
-https://github.com/yuyang-cloud/Drive-OccWorld/raw/ir-wm/assets/IR_WM.mp4
+<video src="https://github.com/yuyang-cloud/Drive-OccWorld/raw/ir-wm/assets/IR_WM.mp4" width="600" controls></video>
 
 ## Acknowledgments
 
@@ -62,3 +62,4 @@ If you find our project useful, please kindly cite us via:
   year={2024}
 
 }
+
