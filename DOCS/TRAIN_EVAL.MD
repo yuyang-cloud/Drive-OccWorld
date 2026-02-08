@@ -35,6 +35,7 @@ Configuration Files:
 
 
 **3. Evaluate**
+Download the provided pretrained [weights](https://huggingface.co/Jianbiao/IR-WM) or use the weights you have trained yourself.
 
 ```bash
 CONFIG=path/to/config.py
