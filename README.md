@@ -9,6 +9,7 @@
 
 
 ## 📢 News
+- `[2026-1-31]` Our folow work [IR-WM](https://arxiv.org/abs/2510.16729) is accepted by ICRA 2026! Please see the `ir-wm` branch for more details.u
 - `[2024-12-10]` Our Drive-OccWorld is accepted by AAAI 2025 (Oral)!
 
 - `[2024-10-14]` We released our project website [here](https://drive-occworld.github.io/).
@@ -106,6 +107,12 @@ This project is released under the [Apache 2.0 license](LICENSE).  -->
 If you find our project useful, please kindly cite us via:
 
 ```bibtext
+@article{mei2025vision,
+  title={Vision-Centric 4D Occupancy Forecasting and Planning via Implicit Residual World Models},
+  author={Mei, Jianbiao and Yang, Yu and Yang, Xuemeng and Wen, Licheng and Lv, Jiajun and Shi, Botian and Liu, Yong},
+  journal={arXiv preprint arXiv:2510.16729},
+  year={2025}
+}
 @article{yang2024driving,
   title={Driving in the occupancy world: Vision-centric 4d occupancy forecasting and planning via world models for autonomous driving},
   author={Yang, Yu and Mei, Jianbiao and Ma, Yukai and Du, Siliang and Chen, Wenqing and Qian, Yijie and Feng, Yuxiang and Liu, Yong},
