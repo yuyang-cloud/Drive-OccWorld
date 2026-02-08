@@ -9,7 +9,7 @@
 
 
 ## 📢 News
-- `[2026-1-31]` Our folow work [IR-WM](https://arxiv.org/abs/2510.16729) is accepted by ICRA 2026! Please see the `ir-wm` branch for more details.u
+- `[2026-1-31]` Our folow work [IR-WM](https://arxiv.org/abs/2510.16729) is accepted by ICRA 2026! Please see the [`ir-wm`](https://github.com/yuyang-cloud/Drive-OccWorld/tree/ir-wm) branch for more details.u
 - `[2024-12-10]` Our Drive-OccWorld is accepted by AAAI 2025 (Oral)!
 
 - `[2024-10-14]` We released our project website [here](https://drive-occworld.github.io/).
