@@ -29,7 +29,7 @@ End-to-end autonomous driving systems increasingly rely on vision-centric world 
 
 <div style="text-align:center;">
   <a href="https://github.com/yuyang-cloud/Drive-OccWorld/raw/ir-wm/assets/IR_WM.mp4">
-    <img src="assets/figures/demo.png" alt="Demo" width="400">
+    <img src="assets/figures/demo.png" alt="Demo" width="600">
   </a>
 </div>
 
